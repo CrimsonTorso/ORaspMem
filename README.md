@@ -21,7 +21,7 @@ sudo apt-get install Python3
 # Usage
 
 ```
-./ORaspMem.py
+chmod +x ORaspMem.py && ./ORaspMem.py
 ```
 
 # Author
