@@ -18,7 +18,7 @@ A fix for offline Raspbian-based machines that have updating issues on startup.
 sudo apt-get install Python3
 ```
 
-#Usage
+# Usage
 
 ```
 ./ORaspMem.py
